@@ -1,6 +1,6 @@
 # Kill Chain Breach Analysis
 
-**Analyst:** [Your Name]  
+**Analyst:** Kenneth Mambo  
 **Date:** July 15, 2026  
 **Subject:** Data Exfiltration via Phishing and Outdated Software Vulnerability  
 **Source:** Lesson Scenario / Baseline Intrusive Composite Analysis

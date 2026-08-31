@@ -6,7 +6,7 @@ May 22, 2026
 
 ## Analyst
 
-Kenneth Njihia Mambo
+Kenneth Mambo
 
 ## Target
 
